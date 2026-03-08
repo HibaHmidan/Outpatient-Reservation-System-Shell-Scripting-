@@ -1,0 +1,7 @@
+D001|Dr.Mona Youssef|Radiology|Sun,Mon,Wed|09:00|15:00
+D002|Dr.Ahmed Salim|Heart|Mon,Tue,Thu|10:30|15:30
+D003|Dr.Lina Faraj|Pediatrics|Tue,Wed|10:00|13:00
+D004|Dr.Marah Ahmad|Eyes|Sun,Mon|09:00|14:00
+D005|Dr.Mustafa Mohmmad|Cardiology|Sun,Mon|08:00|11:30
+D006|Dr.Ahmad Khalil|Surgery|Mon,Tue,Wed|09:00|16:00
+D007|Dr.Mohammad Ibrahim|Surgery|Tue,Wed|10:30|14:00
